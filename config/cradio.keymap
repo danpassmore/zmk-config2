@@ -111,7 +111,7 @@
                 &kp KPLS   &kp N7     &kp N8       &kp N9       &kp PRCNT    /**/ &kp TILDE    &kp LBRC     &kp CRRT   &kp PIPE   &kp RBRC 
                 &kp KMLT   &kp N4     &kp N5       &kp N6       &kp MINUS    /**/ &kp HASH     &kp LPRN     &kp EQUAL  &kp AMPS   &kp RPRN
                 &kp N0     &kp N1     &kp N2       &kp N3       &kp FSLH     /**/ &kp GRAVE    &kp LBKT     &kp AT     &kp DLLR   &kp RBKT
-                                                   &kp BANG     &kp QMARK    /**/ &kp UNDER    &kp MINUS 
+                                                   &kp BSLH     &kp FSLH     /**/ &kp UNDER    &kp MINUS 
             >;
         };
 
@@ -120,7 +120,7 @@
                 &kp F12    &kp F7     &kp F8       &kp F9       &kp PSCRN    /**/ &kp INSERT   &kp HOME     &kp PG_DN  &kp PG_UP  &kp END 
                 &kp F11    &kp F4     &kp F5       &kp F6       &kp CAPS     /**/ &kp SLCK     &kp LEFT     &kp DOWN   &kp UP     &kp RIGHT
                 &kp F10    &kp F1     &kp F2       &kp F3       &kp PAUSE_BREAK   &none        &none        &none      &none      &none
-                                                   &kp BSLH     &kp FSLH     /**/ &kp BKSP     &kp DEL     
+                                                   &kp BANG     &kp QMARK    /**/ &kp BKSP     &kp DEL     
             >;
         };
 
