@@ -109,8 +109,8 @@
 
         nmsm_layer { /* numbers and symbols */
             bindings = <
-                &kp KPLS   &kp N7     &kp N8       &kp N9       &kp PRCNT    /**/ &kp TILDE    &kp LBRC     &kp CRRT   &kp PIPE   &kp RBRC 
-                &kp KMLT   &kp N4     &kp N5       &kp N6       &kp MINUS    /**/ &kp HASH     &kp LPRN     &kp EQUAL  &kp AMPS   &kp RPRN
+                &kp PLUS   &kp N7     &kp N8       &kp N9       &kp PRCNT    /**/ &kp TILDE    &kp LBRC     &kp CRRT   &kp PIPE   &kp RBRC 
+                &kp STAR   &kp N4     &kp N5       &kp N6       &kp MINUS    /**/ &kp HASH     &kp LPRN     &kp EQUAL  &kp AMPS   &kp RPRN
                 &kp N0     &kp N1     &kp N2       &kp N3       &kp FSLH     /**/ &kp GRAVE    &kp LBKT     &kp AT     &kp DLLR   &kp RBKT
                                                    &kp BSLH     &kp FSLH     /**/ &kp UNDER    &kp MINUS 
             >;
